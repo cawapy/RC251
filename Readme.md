@@ -1,6 +1,6 @@
-# RC 25/1
+# Radcomputer RC 25/1
 
-Radcomputer
+Bike computer
 
 ## Characteristics
 
@@ -12,4 +12,4 @@ Radcomputer
 - Compatibility with mount used by a German bike computer manufacturer
   - Show speed of 28" bike (2230 mm wheel circumference)
 - Power supply through Micro-USB
-  - Up to 80 mA power consumption
+  - Approx. 80 mA current draw (suitable for power banks)
