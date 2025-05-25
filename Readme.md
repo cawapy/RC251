@@ -14,3 +14,4 @@ Bike computer
 - Power supply through Micro-USB
   - Approx. 80 mA current draw (suitable for power banks)
 - Dimensions approx. 72 mm x 36 mm x 16 mm
+- Unique piece for private, non-commercial use
